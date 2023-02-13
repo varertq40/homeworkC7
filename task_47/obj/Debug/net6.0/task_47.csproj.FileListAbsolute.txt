@@ -1,0 +1,15 @@
+C:\GeekBrains\DZC#7\task_47\bin\Debug\net6.0\task_47.exe
+C:\GeekBrains\DZC#7\task_47\bin\Debug\net6.0\task_47.deps.json
+C:\GeekBrains\DZC#7\task_47\bin\Debug\net6.0\task_47.runtimeconfig.json
+C:\GeekBrains\DZC#7\task_47\bin\Debug\net6.0\task_47.dll
+C:\GeekBrains\DZC#7\task_47\bin\Debug\net6.0\task_47.pdb
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.csproj.AssemblyReference.cache
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.AssemblyInfoInputs.cache
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.AssemblyInfo.cs
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.csproj.CoreCompileInputs.cache
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.dll
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\refint\task_47.dll
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.pdb
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\task_47.genruntimeconfig.cache
+C:\GeekBrains\DZC#7\task_47\obj\Debug\net6.0\ref\task_47.dll
